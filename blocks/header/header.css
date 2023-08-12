@@ -1,0 +1,11 @@
+.header {
+  margin: 0 auto;
+  min-height: 80px;
+  background-color: rgb(31, 33, 58);
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    min-height: 50px;
+  }
+}
