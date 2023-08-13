@@ -1,0 +1,10 @@
+.intro__image-container {
+  max-width: 420px;
+  max-height: 420px;
+  border-radius: 50%;
+  border: 10px solid white;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  margin-bottom: -100px;
+}
