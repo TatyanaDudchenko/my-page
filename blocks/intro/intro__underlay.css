@@ -1,7 +1,6 @@
 .intro__underlay {
   background-color: rgb(242, 242, 242);
-  height: 400px;
   display: flex;
   justify-content: center;
-  padding-top: 120px;
+  padding-top: 70px;
 }
