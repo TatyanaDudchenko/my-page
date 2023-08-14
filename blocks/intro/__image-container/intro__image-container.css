@@ -1,8 +1,8 @@
 .intro__image-container {
-  max-width: 450px;
-  max-height: 450px;
+  width: 422px;
+  height: 422px;
   border-radius: 50%;
-  border: 10px solid white;
+  border: 8px solid white;
   box-sizing: border-box;
   overflow: hidden;
   display: flex;
