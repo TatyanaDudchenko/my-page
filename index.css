@@ -10,3 +10,10 @@
 @import url(./blocks/intro/__salutation/intro__salutation.css);
 @import url(./blocks/intro/__content/intro__content.css);
 @import url(./blocks/intro/intro.css);
+@import url(./blocks/about/__image/about__image.css);
+@import url(./blocks/about/__container/about__container.css);
+@import url(./blocks/about/__column/about__column.css);
+@import url(./blocks/about/__paragraph/about__paragraph.css);
+@import url(./blocks/about/__title/about__title.css);
+@import url(./blocks/about/__underlay/about__underlay.css);
+@import url(./blocks/about/about.css);

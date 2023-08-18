@@ -1,0 +1,8 @@
+.about__title {
+  margin-top: 0; /* сбросить стандартные отступы */
+  margin-bottom: 0; /* сбросить стандартные отступы */
+  text-transform: uppercase;
+  font-size: 40px;
+  overflow-wrap: break-word;
+  line-height: 1.2;
+}

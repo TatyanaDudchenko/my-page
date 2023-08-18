@@ -1,0 +1,7 @@
+.about__image {
+  background-image: url(/images/laptop-image.jpg);
+  min-height: 590px;
+  width: 546px;
+  background-repeat: no-repeat;
+  margin-top: 63px;
+}

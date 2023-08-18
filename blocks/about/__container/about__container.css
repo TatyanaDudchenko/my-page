@@ -1,0 +1,8 @@
+.about__container {
+  margin: 0; /* сбросить стандартные отступы */
+  display: grid;
+  grid-template-columns: 500px 500px;
+  grid-column-gap: 50px;
+  justify-content: center;
+  font-family: "Inter", Arial, sans-serif;
+}

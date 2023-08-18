@@ -1,0 +1,12 @@
+.about__paragraph {
+  font-size: 24px;
+  margin-top: 0; /* сбросить стандартные отступы */
+  margin-bottom: 0; /* сбросить стандартные отступы */
+  background-color: rgb(232,232,232);
+  text-align: center;
+  padding: 80px;
+  height: 590px;
+  box-sizing: border-box;
+}
+
+
