@@ -26,3 +26,7 @@
 @import url(./blocks/about/__title-accent/about__title-accent.css);
 @import url(./blocks/about/__underlay/about__underlay.css);
 @import url(./blocks/about/about.css);
+@import url(./blocks/skills/skills.css);
+@import url(./blocks/skills/__list-item/skills__list-item.css);
+@import url(./blocks/skills/__title/skills__title.css);
+@import url(./blocks/skills/__list/skills__list.css);

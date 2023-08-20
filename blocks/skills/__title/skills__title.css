@@ -1,0 +1,11 @@
+.skills__title {
+  margin-top: 0; /* сбросить стандартные отступы */
+  margin-bottom: 0; /* сбросить стандартные отступы */
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 25px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.6;
+}
