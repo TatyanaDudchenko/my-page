@@ -1,3 +1,13 @@
 .skills__list {
   display: flex;
+  justify-content: center;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 28px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  flex-wrap: wrap;
+  padding-top: 46px;
+  padding-left: 0; /*сбросить стандартный отступ */
+  margin-top: 0; /* сбросить стандартный отступ */
+  margin-bottom: 0; /* сбросить стандартный отступ */
 }

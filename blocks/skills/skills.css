@@ -3,6 +3,7 @@
   border-top-style: solid;
   border-top-color: #454545;
   padding-top: 46px;
+  padding-bottom: 46px;
   max-width: 795px;
-  /* display: flex; */
+  margin: 0 auto; /* выровнять содержимое блока по центру */
 }

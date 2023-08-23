@@ -1,5 +1,8 @@
 .skills__list-item {
-  background-color: gray;
-  color: white;
-  border-radius: 4px;
+  background-color: rgb(242, 242, 242);
+  color: #545454;
+  border-radius: 6px;
+  list-style: none;
+  padding: 35px;
+  margin: 35px;
 }
