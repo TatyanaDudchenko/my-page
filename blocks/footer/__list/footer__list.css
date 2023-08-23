@@ -1,0 +1,6 @@
+.footer__list {
+  list-style: none;
+  padding-left: 0; /*сбросить стандартный отступ */
+  margin-top: 0; /* сбросить стандартный отступ */
+  margin-bottom: 0; /* сбросить стандартный отступ */
+}
